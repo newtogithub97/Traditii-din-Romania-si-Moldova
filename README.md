@@ -1,7 +1,8 @@
 # Traditii din Romania si Moldova
 <html>
 <body>
-<ul> Obiceiuri si traditii moldoveneşti<ul>
+<font size=24>
+<b>Obiceiuri si traditii moldoveneşti<b>
 <ul>Neamul moldovenesc este bogat în tradiţiile pe care le posedă. Cu ajutorul lor devenim deosebiţi şi unici.
 
 Unul din cel mai important obicei este cel de a întâlni oaspeţii cu pâine coaptă în sobă, sare şi un pahar de vin. În acest mod ne arătăm tot respectul şi căldura cu care vă primim în casele noastre.
@@ -76,7 +77,7 @@ Nu putem lăsa fără atenţie nici  arta muzicală din filme, mai ales creaţia
 În Moldova activează zeci de asociaţii etnoculturale. Asemenea minorităţi naţionale, precum ucrainenii, ruşii, bulgarii, găgăuzii, evreii, polonezii, nemţii, italienii, ţiganii etc., dispun de asociaţii şi fonduri culturale proprii. În Moldova este respectat principiul egalităţii şi universalităţii legislaţiei în domeniul culturii, de aceea, minorităţile etnice au posibilitatea să-şi dezvolte cultura tradiţională şi creaţia populară. Pe pagina noastră sînt prezentate mostre ale creaţiei muzicale a minorităţilor etnice din Republica Moldova.
 <ul>
 <ul>Romania<ul>
-<ul>Simbolismul, proeminent în cele mai multe sărbători
+<li>Simbolismul, proeminent în cele mai multe sărbători
 
 Folcloriștii numesc aceste ceremonii "rituri de trecere" denumite astfel de Arnold Van Gennep, în Riturile de trecere scriere publicată în 1909/1998 - pentru că ele marchează trecerea de la o stare socială sau biologică la alta. Cum asemenea situații tranzitorii creează întotdeauna incertitutidine, rolul lor este de a atenua pe cât posibil energiile negative, tensiunile care rezultă din asemenea schimbări de statut.
 
@@ -293,4 +294,5 @@ Arta tradițională românească
 
 Cultura tradițională a avut în timp o influență puternică asupra artei profesioniste a României. Viețile și obiceiurile românilor de la țară au fost mult timp subiectul favorit al scriitorilor români. Operele multor compozitori au fost parțial inspirate din muzica populară românească.
 
-Compozitorii George Enescu și Theodor Rogalski, sculptorul Constantin Brâncuși și scriitorul Eugen Ionescu sunt probabil printre cei mai cunoscuți artiști de origine română. Capodoperele lui Enescu, numite Rapsodiile Române, sunt și ele bazate pe muzica populară românească. Câteva din sculpturile lui Brâncuși conțin elemente ale artei populare românești.
+Compozitorii George Enescu și Theodor Rogalski, sculptorul Constantin Brâncuși și scriitorul Eugen Ionescu sunt probabil printre cei mai cunoscuți artiști de origine română. Capodoperele lui Enescu, numite Rapsodiile Române, sunt și ele bazate pe muzica populară românească. Câteva din sculpturile lui Brâncuși conțin elemente ale artei populare românești.</li> 
+</font>
