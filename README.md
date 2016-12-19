@@ -1,7 +1,6 @@
 # Traditii din Romania si Moldova
 <html>
 <body>
-<font size=24>
 <b>Obiceiuri si traditii moldoveneşti<b>
 <ul>Neamul moldovenesc este bogat în tradiţiile pe care le posedă. Cu ajutorul lor devenim deosebiţi şi unici.
 
